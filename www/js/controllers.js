@@ -11,8 +11,19 @@ angular.module('app.controllers', [])
   })
 })
    
-.controller('mapCtrl', function($scope) {
-
+.controller('mapCtrl', function($scope, $http) {
+    $http.post('http://sakhir.hack.att.io:3000/remoteservices/v1/vehicle/bus_info/view/3106295231', {
+      "longitude": 36.195814,
+      "latitude": -115.157052,
+      "accuracy": 6
+    }).then(function(response) {
+        idrequest = response.data.requestId;
+        console.log('Success', response.data.requestId);
+        $http.get('http://sakhir.hack.att.io:3000/remoteservices/v1/vehicle/status/3106295231/'+idrequest).then(function(res) {
+            $scope.routes = res.data.statusReport;
+            console.log('Success', res.data.statusReport);
+        })
+    })
 })
    
 .controller('allRoutesCtrl', function($scope, $http) {

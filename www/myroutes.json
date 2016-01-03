@@ -1,0 +1,838 @@
+[
+  {
+    "routeId": "111181",
+    "stops": [
+      {
+        "stopId": "5722",
+        "odom": "5.693",
+        "stopName": "Sunset @ Pecos (W)",
+        "lat": "-115.097269",
+        "long": "36.071559",
+        "shelter": "0",
+        "bench": "1"
+      },
+      {
+        "stopId": "1793",
+        "odom": "11.149",
+        "stopName": "McLeod @ Sahara (N)",
+        "lat": "-115.10983",
+        "long": "36.144739",
+        "shelter": "0",
+        "bench": "0"
+      },
+      {
+        "stopId": "1795",
+        "odom": "11.351",
+        "stopName": "McLeod @ Scarlet Oak (N)",
+        "lat": "-115.109837",
+        "long": "36.147638",
+        "shelter": "0",
+        "bench": "1"
+      },
+      {
+        "stopId": "2042",
+        "odom": "12.387",
+        "stopName": "Palm @ Center (N)",
+        "lat": "-115.101008",
+        "long": "36.157539",
+        "shelter": "0",
+        "bench": "0"
+      },
+      {
+        "stopId": "2096",
+        "odom": "12.512",
+        "stopName": "Pecos @ Charleston (N)",
+        "lat": "-115.100908",
+        "long": "36.15933",
+        "shelter": "1",
+        "bench": "1"
+      },
+      {
+        "stopId": "2133",
+        "odom": "12.767",
+        "stopName": "Pecos @ Spectrum Village (N)",
+        "lat": "-115.099049",
+        "long": "36.162477",
+        "shelter": "0",
+        "bench": "1"
+      },
+      {
+        "stopId": "2085",
+        "odom": "12.971",
+        "stopName": "Pecos @ Pecos Park (N)",
+        "lat": "-115.098058",
+        "long": "36.16532",
+        "shelter": "0",
+        "bench": "1"
+      },
+      {
+        "stopId": "2099",
+        "odom": "13.44",
+        "stopName": "Pecos @ Diamond Head (N)",
+        "lat": "-115.098109",
+        "long": "36.172057",
+        "shelter": "0",
+        "bench": "1"
+      },
+      {
+        "stopId": "2089",
+        "odom": "13.579",
+        "stopName": "Pecos @ Bonanza (N)",
+        "lat": "-115.098109",
+        "long": "36.174059",
+        "shelter": "1",
+        "bench": "1"
+      },
+      {
+        "stopId": "6493",
+        "odom": "13.825",
+        "stopName": "Pecos @ Harris (N)",
+        "lat": "-115.098132",
+        "long": "36.177593",
+        "shelter": "0",
+        "bench": "1"
+      },
+      {
+        "stopId": "2142",
+        "odom": "14.086",
+        "stopName": "Pecos @ Washington (N)",
+        "lat": "-115.098138",
+        "long": "36.18135",
+        "shelter": "1",
+        "bench": "1"
+      },
+      {
+        "stopId": "2115",
+        "odom": "14.363",
+        "stopName": "Pecos @ Madama (N)",
+        "lat": "-115.098169",
+        "long": "36.185316",
+        "shelter": "0",
+        "bench": "1"
+      }
+    ]
+  },
+  {
+    "routeId": "111191",
+    "stops": [
+      {
+        "stopId": "1793",
+        "odom": "10.341",
+        "stopName": "McLeod @ Sahara (N)",
+        "lat": "-115.10983",
+        "long": "36.144739",
+        "shelter": "0",
+        "bench": "0"
+      },
+      {
+        "stopId": "1795",
+        "odom": "10.543",
+        "stopName": "McLeod @ Scarlet Oak (N)",
+        "lat": "-115.109837",
+        "long": "36.147638",
+        "shelter": "0",
+        "bench": "1"
+      },
+      {
+        "stopId": "2042",
+        "odom": "11.579",
+        "stopName": "Palm @ Center (N)",
+        "lat": "-115.101008",
+        "long": "36.157539",
+        "shelter": "0",
+        "bench": "0"
+      },
+      {
+        "stopId": "2096",
+        "odom": "11.704",
+        "stopName": "Pecos @ Charleston (N)",
+        "lat": "-115.100908",
+        "long": "36.15933",
+        "shelter": "1",
+        "bench": "1"
+      },
+      {
+        "stopId": "2133",
+        "odom": "11.959",
+        "stopName": "Pecos @ Spectrum Village (N)",
+        "lat": "-115.099049",
+        "long": "36.162477",
+        "shelter": "0",
+        "bench": "1"
+      },
+      {
+        "stopId": "2085",
+        "odom": "12.163",
+        "stopName": "Pecos @ Pecos Park (N)",
+        "lat": "-115.098058",
+        "long": "36.16532",
+        "shelter": "0",
+        "bench": "1"
+      },
+      {
+        "stopId": "2099",
+        "odom": "12.632",
+        "stopName": "Pecos @ Diamond Head (N)",
+        "lat": "-115.098109",
+        "long": "36.172057",
+        "shelter": "0",
+        "bench": "1"
+      },
+      {
+        "stopId": "2089",
+        "odom": "12.771",
+        "stopName": "Pecos @ Bonanza (N)",
+        "lat": "-115.098109",
+        "long": "36.174059",
+        "shelter": "1",
+        "bench": "1"
+      },
+      {
+        "stopId": "6493",
+        "odom": "13.017",
+        "stopName": "Pecos @ Harris (N)",
+        "lat": "-115.098132",
+        "long": "36.177593",
+        "shelter": "0",
+        "bench": "1"
+      },
+      {
+        "stopId": "2142",
+        "odom": "13.278",
+        "stopName": "Pecos @ Washington (N)",
+        "lat": "-115.098138",
+        "long": "36.18135",
+        "shelter": "1",
+        "bench": "1"
+      },
+      {
+        "stopId": "2115",
+        "odom": "13.555",
+        "stopName": "Pecos @ Madama (N)",
+        "lat": "-115.098169",
+        "long": "36.185316",
+        "shelter": "0",
+        "bench": "1"
+      }
+    ]
+  },
+  {
+    "routeId": "111201",
+    "stops": [
+      {
+        "stopId": "1793",
+        "odom": "10.317",
+        "stopName": "McLeod @ Sahara (N)",
+        "lat": "-115.10983",
+        "long": "36.144739",
+        "shelter": "0",
+        "bench": "0"
+      },
+      {
+        "stopId": "1795",
+        "odom": "10.519",
+        "stopName": "McLeod @ Scarlet Oak (N)",
+        "lat": "-115.109837",
+        "long": "36.147638",
+        "shelter": "0",
+        "bench": "1"
+      },
+      {
+        "stopId": "2042",
+        "odom": "11.554",
+        "stopName": "Palm @ Center (N)",
+        "lat": "-115.101008",
+        "long": "36.157539",
+        "shelter": "0",
+        "bench": "0"
+      },
+      {
+        "stopId": "2096",
+        "odom": "11.679",
+        "stopName": "Pecos @ Charleston (N)",
+        "lat": "-115.100908",
+        "long": "36.15933",
+        "shelter": "1",
+        "bench": "1"
+      },
+      {
+        "stopId": "2133",
+        "odom": "11.935",
+        "stopName": "Pecos @ Spectrum Village (N)",
+        "lat": "-115.099049",
+        "long": "36.162477",
+        "shelter": "0",
+        "bench": "1"
+      },
+      {
+        "stopId": "2085",
+        "odom": "12.138",
+        "stopName": "Pecos @ Pecos Park (N)",
+        "lat": "-115.098058",
+        "long": "36.16532",
+        "shelter": "0",
+        "bench": "1"
+      },
+      {
+        "stopId": "2099",
+        "odom": "12.608",
+        "stopName": "Pecos @ Diamond Head (N)",
+        "lat": "-115.098109",
+        "long": "36.172057",
+        "shelter": "0",
+        "bench": "1"
+      },
+      {
+        "stopId": "2089",
+        "odom": "12.746",
+        "stopName": "Pecos @ Bonanza (N)",
+        "lat": "-115.098109",
+        "long": "36.174059",
+        "shelter": "1",
+        "bench": "1"
+      },
+      {
+        "stopId": "6493",
+        "odom": "12.993",
+        "stopName": "Pecos @ Harris (N)",
+        "lat": "-115.098132",
+        "long": "36.177593",
+        "shelter": "0",
+        "bench": "1"
+      },
+      {
+        "stopId": "2142",
+        "odom": "13.254",
+        "stopName": "Pecos @ Washington (N)",
+        "lat": "-115.098138",
+        "long": "36.18135",
+        "shelter": "1",
+        "bench": "1"
+      },
+      {
+        "stopId": "2115",
+        "odom": "13.53",
+        "stopName": "Pecos @ Madama (N)",
+        "lat": "-115.098169",
+        "long": "36.185316",
+        "shelter": "0",
+        "bench": "1"
+      }
+    ]
+  },
+  {
+    "routeId": "111221",
+    "stops": [
+      {
+        "stopId": "5722",
+        "odom": "5.716",
+        "stopName": "Sunset @ Pecos (W)",
+        "lat": "-115.097269",
+        "long": "36.071559",
+        "shelter": "0",
+        "bench": "1"
+      },
+      {
+        "stopId": "1793",
+        "odom": "11.173",
+        "stopName": "McLeod @ Sahara (N)",
+        "lat": "-115.10983",
+        "long": "36.144739",
+        "shelter": "0",
+        "bench": "0"
+      },
+      {
+        "stopId": "1795",
+        "odom": "11.375",
+        "stopName": "McLeod @ Scarlet Oak (N)",
+        "lat": "-115.109837",
+        "long": "36.147638",
+        "shelter": "0",
+        "bench": "1"
+      },
+      {
+        "stopId": "2042",
+        "odom": "12.41",
+        "stopName": "Palm @ Center (N)",
+        "lat": "-115.101008",
+        "long": "36.157539",
+        "shelter": "0",
+        "bench": "0"
+      },
+      {
+        "stopId": "2096",
+        "odom": "12.535",
+        "stopName": "Pecos @ Charleston (N)",
+        "lat": "-115.100908",
+        "long": "36.15933",
+        "shelter": "1",
+        "bench": "1"
+      },
+      {
+        "stopId": "2133",
+        "odom": "12.79",
+        "stopName": "Pecos @ Spectrum Village (N)",
+        "lat": "-115.099049",
+        "long": "36.162477",
+        "shelter": "0",
+        "bench": "1"
+      },
+      {
+        "stopId": "2085",
+        "odom": "12.994",
+        "stopName": "Pecos @ Pecos Park (N)",
+        "lat": "-115.098058",
+        "long": "36.16532",
+        "shelter": "0",
+        "bench": "1"
+      },
+      {
+        "stopId": "2099",
+        "odom": "13.463",
+        "stopName": "Pecos @ Diamond Head (N)",
+        "lat": "-115.098109",
+        "long": "36.172057",
+        "shelter": "0",
+        "bench": "1"
+      },
+      {
+        "stopId": "2089",
+        "odom": "13.602",
+        "stopName": "Pecos @ Bonanza (N)",
+        "lat": "-115.098109",
+        "long": "36.174059",
+        "shelter": "1",
+        "bench": "1"
+      },
+      {
+        "stopId": "6493",
+        "odom": "13.849",
+        "stopName": "Pecos @ Harris (N)",
+        "lat": "-115.098132",
+        "long": "36.177593",
+        "shelter": "0",
+        "bench": "1"
+      },
+      {
+        "stopId": "2142",
+        "odom": "14.11",
+        "stopName": "Pecos @ Washington (N)",
+        "lat": "-115.098138",
+        "long": "36.18135",
+        "shelter": "1",
+        "bench": "1"
+      },
+      {
+        "stopId": "2115",
+        "odom": "14.386",
+        "stopName": "Pecos @ Madama (N)",
+        "lat": "-115.098169",
+        "long": "36.185316",
+        "shelter": "0",
+        "bench": "1"
+      }
+    ]
+  },
+  {
+    "routeId": "203113",
+    "stops": [
+      {
+        "stopId": "5188",
+        "odom": "0",
+        "stopName": "Sahara @ Ft. Apache (E)",
+        "lat": "-115.298749",
+        "long": "36.14428",
+        "shelter": "0",
+        "bench": "0"
+      },
+      {
+        "stopId": "4055",
+        "odom": "0.346",
+        "stopName": "Ft. Apache @ Lake North (S)",
+        "lat": "-115.297634",
+        "long": "36.140242",
+        "shelter": "1",
+        "bench": "1"
+      },
+      {
+        "stopId": "4056",
+        "odom": "0.572",
+        "stopName": "Ft. Apache @ Mariner Cove (S)",
+        "lat": "-115.297488",
+        "long": "36.136978",
+        "shelter": "1",
+        "bench": "1"
+      },
+      {
+        "stopId": "4057",
+        "odom": "0.844",
+        "stopName": "Ft. Apache @ Lake South (S)",
+        "lat": "-115.297322",
+        "long": "36.133069",
+        "shelter": "1",
+        "bench": "1"
+      },
+      {
+        "stopId": "1563",
+        "odom": "15.896",
+        "stopName": "Lamb @ Charleston (N)",
+        "lat": "-115.080107",
+        "long": "36.159647",
+        "shelter": "0",
+        "bench": "2"
+      },
+      {
+        "stopId": "1595",
+        "odom": "16.085",
+        "stopName": "Lamb @ Sherrill (N)",
+        "lat": "-115.080221",
+        "long": "36.162366",
+        "shelter": "0",
+        "bench": "0"
+      },
+      {
+        "stopId": "1596",
+        "odom": "16.432",
+        "stopName": "Lamb @ Stewart (N)",
+        "lat": "-115.080375",
+        "long": "36.167329",
+        "shelter": "1",
+        "bench": "1"
+      },
+      {
+        "stopId": "1573",
+        "odom": "16.658",
+        "stopName": "Lamb @ Diamond Head (N)",
+        "lat": "-115.080341",
+        "long": "36.170582",
+        "shelter": "0",
+        "bench": "1"
+      },
+      {
+        "stopId": "1557",
+        "odom": "16.9",
+        "stopName": "Lamb @ Bonanza (N)",
+        "lat": "-115.08031",
+        "long": "36.174045",
+        "shelter": "0",
+        "bench": "0"
+      },
+      {
+        "stopId": "6141",
+        "odom": "17.164",
+        "stopName": "Lamb @ Harris (N)",
+        "lat": "-115.080273",
+        "long": "36.177843",
+        "shelter": "0",
+        "bench": "0"
+      },
+      {
+        "stopId": "1602",
+        "odom": "17.414",
+        "stopName": "Lamb @ Washington (N)",
+        "lat": "-115.080217",
+        "long": "36.181424",
+        "shelter": "1",
+        "bench": "1"
+      },
+      {
+        "stopId": "6497",
+        "odom": "17.668",
+        "stopName": "Lamb @ Monroe (N)",
+        "lat": "-115.079975",
+        "long": "36.185073",
+        "shelter": "0",
+        "bench": "0"
+      }
+    ]
+  },
+  {
+    "routeId": "203123",
+    "stops": [
+      {
+        "stopId": "4055",
+        "odom": "0.229",
+        "stopName": "Ft. Apache @ Lake North (S)",
+        "lat": "-115.297634",
+        "long": "36.140242",
+        "shelter": "1",
+        "bench": "1"
+      },
+      {
+        "stopId": "4056",
+        "odom": "0.455",
+        "stopName": "Ft. Apache @ Mariner Cove (S)",
+        "lat": "-115.297488",
+        "long": "36.136978",
+        "shelter": "1",
+        "bench": "1"
+      },
+      {
+        "stopId": "4057",
+        "odom": "0.727",
+        "stopName": "Ft. Apache @ Lake South (S)",
+        "lat": "-115.297322",
+        "long": "36.133069",
+        "shelter": "1",
+        "bench": "1"
+      },
+      {
+        "stopId": "1563",
+        "odom": "15.78",
+        "stopName": "Lamb @ Charleston (N)",
+        "lat": "-115.080107",
+        "long": "36.159647",
+        "shelter": "0",
+        "bench": "2"
+      },
+      {
+        "stopId": "1595",
+        "odom": "15.969",
+        "stopName": "Lamb @ Sherrill (N)",
+        "lat": "-115.080221",
+        "long": "36.162366",
+        "shelter": "0",
+        "bench": "0"
+      },
+      {
+        "stopId": "1596",
+        "odom": "16.315",
+        "stopName": "Lamb @ Stewart (N)",
+        "lat": "-115.080375",
+        "long": "36.167329",
+        "shelter": "1",
+        "bench": "1"
+      },
+      {
+        "stopId": "1573",
+        "odom": "16.541",
+        "stopName": "Lamb @ Diamond Head (N)",
+        "lat": "-115.080341",
+        "long": "36.170582",
+        "shelter": "0",
+        "bench": "1"
+      },
+      {
+        "stopId": "1557",
+        "odom": "16.783",
+        "stopName": "Lamb @ Bonanza (N)",
+        "lat": "-115.08031",
+        "long": "36.174045",
+        "shelter": "0",
+        "bench": "0"
+      },
+      {
+        "stopId": "6141",
+        "odom": "17.048",
+        "stopName": "Lamb @ Harris (N)",
+        "lat": "-115.080273",
+        "long": "36.177843",
+        "shelter": "0",
+        "bench": "0"
+      },
+      {
+        "stopId": "1602",
+        "odom": "17.297",
+        "stopName": "Lamb @ Washington (N)",
+        "lat": "-115.080217",
+        "long": "36.181424",
+        "shelter": "1",
+        "bench": "1"
+      },
+      {
+        "stopId": "6497",
+        "odom": "17.551",
+        "stopName": "Lamb @ Monroe (N)",
+        "lat": "-115.079975",
+        "long": "36.185073",
+        "shelter": "0",
+        "bench": "0"
+      }
+    ]
+  },
+  {
+    "routeId": "210104",
+    "stops": [
+      {
+        "stopId": "1440",
+        "odom": "7.516",
+        "stopName": "Lake Mead @ Concord (W)",
+        "lat": "-115.157052",
+        "long": "36.195814",
+        "shelter": "0",
+        "bench": "0"
+      },
+      {
+        "stopId": "1474",
+        "odom": "7.766",
+        "stopName": "Lake Mead @ MLK (W)",
+        "lat": "-115.16154",
+        "long": "36.195855",
+        "shelter": "1",
+        "bench": "1"
+      },
+      {
+        "stopId": "1499",
+        "odom": "9.857",
+        "stopName": "Lake Mead @ Rancho (W)",
+        "lat": "-115.198052",
+        "long": "36.19991",
+        "shelter": "1",
+        "bench": "1"
+      },
+      {
+        "stopId": "1476",
+        "odom": "10.159",
+        "stopName": "Lake Mead @ Madeline (W)",
+        "lat": "-115.202411",
+        "long": "36.197323",
+        "shelter": "0",
+        "bench": "1"
+      },
+      {
+        "stopId": "1483",
+        "odom": "10.937",
+        "stopName": "Lake Mead @ Michael (W)",
+        "lat": "-115.215501",
+        "long": "36.195721",
+        "shelter": "1",
+        "bench": "1"
+      },
+      {
+        "stopId": "1523",
+        "odom": "11.199",
+        "stopName": "Lake Mead @ Winwood (W)",
+        "lat": "-115.220206",
+        "long": "36.195799",
+        "shelter": "1",
+        "bench": "1"
+      },
+      {
+        "stopId": "1457",
+        "odom": "11.444",
+        "stopName": "Lake Mead @ Jones (W)",
+        "lat": "-115.224601",
+        "long": "36.195859",
+        "shelter": "1",
+        "bench": "1"
+      },
+      {
+        "stopId": "1421",
+        "odom": "11.608",
+        "stopName": "Lake Mead @ Arpa (W)",
+        "lat": "-115.22757",
+        "long": "36.195904",
+        "shelter": "1",
+        "bench": "1"
+      },
+      {
+        "stopId": "1518",
+        "odom": "11.993",
+        "stopName": "Lake Mead @ Torrey Pines (W)",
+        "lat": "-115.234504",
+        "long": "36.196022",
+        "shelter": "1",
+        "bench": "1"
+      },
+      {
+        "stopId": "1455",
+        "odom": "12.2",
+        "stopName": "Lake Mead @ James Bilbray (W)",
+        "lat": "-115.23826",
+        "long": "36.196049",
+        "shelter": "1",
+        "bench": "1"
+      },
+      {
+        "stopId": "1497",
+        "odom": "12.326",
+        "stopName": "Lake Mead @ Rainbow (W)",
+        "lat": "-115.240536",
+        "long": "36.196079",
+        "shelter": "1",
+        "bench": "1"
+      },
+      {
+        "stopId": "1502",
+        "odom": "12.773",
+        "stopName": "Lake Mead @ Rock Springs (W)",
+        "lat": "-115.24861",
+        "long": "36.196155",
+        "shelter": "1",
+        "bench": "1"
+      },
+      {
+        "stopId": "1513",
+        "odom": "12.965",
+        "stopName": "Lake Mead @ Tenaya (W)",
+        "lat": "-115.252073",
+        "long": "36.196183",
+        "shelter": "0",
+        "bench": "1"
+      },
+      {
+        "stopId": "3426",
+        "odom": "13.238",
+        "stopName": "Lake Mead @ 7470 W. Lk Mead (W)",
+        "lat": "-115.256998",
+        "long": "36.196217",
+        "shelter": "1",
+        "bench": "1"
+      },
+      {
+        "stopId": "1432",
+        "odom": "13.527",
+        "stopName": "Lake Mead @ Buffalo (W)",
+        "lat": "-115.262157",
+        "long": "36.196427",
+        "shelter": "0",
+        "bench": "0"
+      },
+      {
+        "stopId": "1478",
+        "odom": "13.724",
+        "stopName": "Lake Mead @ Mariner (W)",
+        "lat": "-115.265568",
+        "long": "36.197199",
+        "shelter": "1",
+        "bench": "1"
+      },
+      {
+        "stopId": "1494",
+        "odom": "13.998",
+        "stopName": "Lake Mead @ Pueblo Vista (W)",
+        "lat": "-115.270555",
+        "long": "36.197091",
+        "shelter": "0",
+        "bench": "0"
+      },
+      {
+        "stopId": "1461",
+        "odom": "14.237",
+        "stopName": "Lake Mead @ Laguna Mist (W)",
+        "lat": "-115.274821",
+        "long": "36.196963",
+        "shelter": "0",
+        "bench": "0"
+      },
+      {
+        "stopId": "1450",
+        "odom": "14.519",
+        "stopName": "Lake Mead @ Harbor Island (W)",
+        "lat": "-115.279535",
+        "long": "36.198266",
+        "shelter": "1",
+        "bench": "1"
+      },
+      {
+        "stopId": "2265",
+        "odom": "14.788",
+        "stopName": "Rampart @ Lake Mead (N)",
+        "lat": "-115.281369",
+        "long": "36.200609",
+        "shelter": "0",
+        "bench": "0"
+      }
+    ]
+  }
+]

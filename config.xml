@@ -2,10 +2,13 @@
 <widget id="com.ionicframework.fandh910185" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
   <name>fandh</name>
   <description>
-        An Ionic Framework and Cordova project.
+        Fast and Happy to your destination.
     </description>
-  <author email="you@example.com" href="http://example.com.com/">
-      Your Name Here
+  <author email="hr241410@gmail.com">
+      César Manzo
+    </author>
+  <author email="anaid.loza@gmail.com">
+      Diana Loza
     </author>
   <content src="index.html"/>
   <access origin="*"/>

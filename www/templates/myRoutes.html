@@ -7,9 +7,7 @@
             </label>
         </form>
         <ion-list>
-            <ion-item href="#/page7">112</ion-item>
-            <ion-item href="#/page7">44</ion-item>
-            <ion-item href="#/page7">23</ion-item>
+            <ion-item ng-repeat="items in routes">Route {{ items.routeId }}</ion-item>
         </ion-list>
     </ion-content>
 </ion-view>
